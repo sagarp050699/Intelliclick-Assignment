@@ -1,0 +1,33 @@
+.table-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .cities-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .cities-table th, .cities-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .weather-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .weather-container p {
+    font-size: 18px;
+  }
+  
